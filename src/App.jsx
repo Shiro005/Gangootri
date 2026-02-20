@@ -94,9 +94,9 @@ function App() {
 
   return (
     <div 
-      className="min-h-screen bg-cover bg-center bg-no-repeat bg-fixed"
+      className="min-h-screen bg-cover bg-black bg-center bg-no-repeat bg-fixed"
       style={{
-        backgroundImage: `url(https://wallpaperbat.com/img/965903-avengers-electric-electric-blue-magenta-dark-theme-night-dark-mode-marvel-hd-phone-wallpaper-marvel-wallpaper-hd-hd-dark-wallpaper-dark-black-wallpaper.jpg)`,
+        backgroundImage: `url()`,
       }}
     >
       {/* Optional overlay pattern for added texture */}
